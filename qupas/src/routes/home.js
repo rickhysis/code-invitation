@@ -158,7 +158,7 @@ const Home = ({ classes }) => {
             OMDB Album layout
           </Typography>
           <Typography variant="h6" align="center" color="textSecondary" paragraph>
-            This page is only a test sample for Technical Test of the Software Engineer Frontend. this is an example of a collection of API from omdbapi.
+            This page is only a sample for react hooks. this is an example of a collection of API from omdbapi.
           </Typography>
         </div>
       </div >

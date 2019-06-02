@@ -156,7 +156,7 @@ const renderHeader = ({ classes }) => {
     <AppBar position="static">
       <Toolbar>
         <Typography className={classes.title} variant="h6" color="inherit" noWrap>
-          TEST-Qupas
+          Qupas
         </Typography>
         <div className={classes.search}>
           <div className={classes.searchIcon}>
